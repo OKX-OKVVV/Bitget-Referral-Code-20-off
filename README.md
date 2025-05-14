@@ -1,4 +1,6 @@
-### **How to Use a Bitget Referral Code**
+# **Sign up with Bitget and get 20% off trading fees**
+
+**How to Use a Bitget Referral Code**
 
 Getting started with a Bitget referral code is simple, enabling you to claim attractive bonuses and discounted trading fees right away. Follow these quick steps to unlock your welcome offer:
 
@@ -12,7 +14,7 @@ Getting started with a Bitget referral code is simple, enabling you to claim att
 
 ![Image](https://github.com/user-attachments/assets/3b6fd4b0-2de8-4e47-bdd7-63e2ffa748b5)
 
-### **About Bitget**
+# **About Bitget**
 
 Bitget is headquartered in Singapore and has evolved into a global crypto exchange, serving over 100 million users across more than 150 countries. The platform offers a comprehensive suite of trading options, including spot, futures, and margin trading, with support for over 800 cryptocurrencies. 
 
