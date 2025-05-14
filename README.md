@@ -4,13 +4,10 @@
 
 Getting started with a Bitget referral code is simple, enabling you to claim attractive bonuses and discounted trading fees right away. Follow these quick steps to unlock your welcome offer:
 
-**[Create a Bitget Account:](https://partner.bitget.com/bg/BITGET3)** Head over to the official Bitget website or download the Bitget app, and register your account using your preferred email or mobile number.
-
-**Enter Your Referral Code:** As you sign up, input the referral code **bitget3** into the referral field. If you use a direct referral link, the code will automatically apply.
-
-**Deposit Funds:** Deposit at least 200 USDT using methods like bank transfers, debit or credit cards, or cryptocurrency transfers to activate your welcome rewards.
-
-**Start Trading on Bitget:** Benefit from reduced trading fees across spot and futures markets, along with other promotional incentives.
+1. **[Create a Bitget Account:](https://partner.bitget.com/bg/BITGET3)** Head over to the official Bitget website or download the Bitget app, and register your account using your preferred email or mobile number.
+2. **Enter Your Referral Code:** As you sign up, input the referral code **bitget3** into the referral field. If you use a direct referral link, the code will automatically apply.
+3. **Deposit Funds:** Deposit at least 200 USDT using methods like bank transfers, debit or credit cards, or cryptocurrency transfers to activate your welcome rewards.
+4. **Start Trading on Bitget:** Benefit from reduced trading fees across spot and futures markets, along with other promotional incentives.
 
 ![Image](https://github.com/user-attachments/assets/3b6fd4b0-2de8-4e47-bdd7-63e2ffa748b5)
 
